@@ -1,13 +1,13 @@
-# Pasta boscaiola recipe
+# Pasta Boscaiola Recipe
 
 
 ## Ingredients
 
-- rigatoni
-- pancetta
-- peas
-- mushrooms
-- onions
+- Rigatoni
+- Pancetta
+- Peas
+- Mushrooms
+- Onions
 
 
 ## Instructions
